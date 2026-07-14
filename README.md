@@ -76,11 +76,7 @@ I'm a passionate Flutter Developer with experience building high-quality cross-p
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=taimoorsatti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorsatti&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taimooryasin&theme=tokyo-night" />
 </p>
 
 <p align="center">
