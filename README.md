@@ -1,3 +1,4 @@
+![logo](https://github.com/taimoorsatti/taimoorsatti/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Taimoor Satti</h1>
 
 <h3 align="center">
