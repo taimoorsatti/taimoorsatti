@@ -1,32 +1,97 @@
 <h1 align="center">Hi 👋, I'm Taimoor Satti</h1>
-<h3 align="center">Flutter Developer | Cross-Platform Mobile Apps | FastAPI | Firebase | AI Integration</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taimoorsatti" alt="taimoorsatti" /></a> </p>
+<h3 align="center">
+Flutter Developer | Cross-Platform Mobile Apps | FastAPI | Firebase | AI Integration
+</h3>
 
-- 🔭 I’m currently working on [TUZMO – ARTISAN EXPERIENCE PLATFORM](📱 iOS:https://apps.apple.com/us/app/tuzmo/id1641067239 🤖 Android: https://play.google.com/store/apps/details?id=com.app.tuzmo)
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Flutter Wasm, MCP & Agentic AI**
-
-- 🤝 I’m looking for help with [FELLAS LOADED – ENTERTAINMENT APP](📱 iOS:https://apps.apple.com/pk/app/fellas-loaded/id6475873162 🤖 Android::https://play.google.com/store/apps/details?id=cz.pixelfield.fellas)
-
-- 💬 Ask me about **Flutter, Dart, Firebase, FastAPI, REST APIs, Clean Architecture & Mobile App Development, FastAPI, Mobile App Development**
-
-- 📫 How to reach me **taimooryasin21@gmail.com**
-
-- ⚡ Fun fact **assionate about building scalable mobile applications and continuously learning new technologies.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/taimoor08420220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taimoor08420220" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taimooryasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taimooryasin" height="30" width="40" /></a>
-<a href="https://instagram.com/taimoor_7tii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taimoor_7tii" height="30" width="40" /></a>
+I'm a passionate Flutter Developer with experience building high-quality cross-platform mobile applications. I enjoy creating scalable solutions using Flutter, FastAPI, Firebase, and modern AI technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=taimoorsatti&label=Profile%20Views&color=0e75b6&style=flat" alt="taimoorsatti" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorsatti&show_icons=true&locale=en&layout=compact" alt="taimoorsatti" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoorsatti&show_icons=true&locale=en" alt="taimoorsatti" /></p>
+## 🚀 Featured Production Apps
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorsatti&" alt="taimoorsatti" /></p>
+### 📱 TUZMO – Artisan Experience Platform
+
+- 🍎 iOS: https://apps.apple.com/us/app/tuzmo/id1641067239
+- 🤖 Android: https://play.google.com/store/apps/details?id=com.app.tuzmo
+
+### 🎬 FELLAS LOADED – Entertainment App
+
+- 🍎 iOS: https://apps.apple.com/pk/app/fellas-loaded/id6475873162
+- 🤖 Android: https://play.google.com/store/apps/details?id=cz.pixelfield.fellas
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Cross-platform Flutter Applications**
+- 🌱 Currently learning **Flutter Wasm, Model Context Protocol (MCP) & Agentic AI**
+- 💬 Ask me about **Flutter, Dart, Firebase, FastAPI, REST APIs, Clean Architecture & Mobile App Development**
+- 📫 Reach me at **taimooryasin21@gmail.com**
+- ⚡ Passionate about building scalable mobile applications and exploring AI-powered solutions.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/taimooryasin" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://twitter.com/taimoor08420220" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<a href="https://instagram.com/taimoor_7tii" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="mailto:taimooryasin21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,docker,postgres,mysql,git,linux,figma,postman,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=taimoorsatti&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorsatti&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorsatti&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open to collaborating on Flutter, FastAPI, Firebase and AI-powered mobile applications.
+
+⭐ If you like my work, don't forget to star my repositories!
